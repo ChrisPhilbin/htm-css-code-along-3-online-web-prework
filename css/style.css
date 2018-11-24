@@ -33,10 +33,14 @@ figcaption {
   background-color: aqua;
 }
 
-#logo h1 { 
+#logo h1 {
   font-family: 'Clicker Script', cursive;
 }
 
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
+}
+
+#details a:link {
+
 }
